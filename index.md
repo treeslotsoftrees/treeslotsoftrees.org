@@ -29,7 +29,7 @@ and get the best-value token to your ETH Address when we Airdrop.
 - Users can also use DeFi to swap other tokens on other networks in order to offset the carbon footprint emissions resulted by their crypto activity (like transactions, verifications or computations) and these tokens can be used to purchase carbon credits from farmers or contribute to forestation of areas of their choosing.
 - __Marketplace__ The idea of a marketplace where locations are crowdsourced, locals gets involved to plant trees, nurture them, and benefit from the commercial aspects of it too.
 - We will leverage satellite imagery to monitor and analyse the growth, management, and progress of the trees.
-- We are kickstarting with __USA, Canada, Nepal, and India__. We are inviting interested individuals worldwide to be part of this revolution.
+- We are kickstarting with __USA, Canada, Nepal, and India__. We are inviting interested individuals worldwide to be part of this revolution. In the USA, billions of seeds[^regrowforest] are needed to regrow forests.
 
 ## What's with the ugly website?
 
@@ -52,3 +52,5 @@ Yes, we are looking for designers, artists, engineers, lawyers, and everyone els
 [^CSR]: [Corporate social responsibility](https://en.wikipedia.org/wiki/Corporate_social_responsibility) (CSR) is a form of international private business self-regulation which aims to contribute to societal goals of a philanthropic, activist, or charitable nature by engaging in or supporting volunteering or ethically-oriented practices.
 
 [^token]: The DAO will have a token (network TD) to serve as a mechanism to raise funds and reward entities who are contributing to this effort. We will will issue and sell the tokens and users (individuals or organizations) can purchase the token and allocate (transfer) it towards planting trees, bamboos, or monitoring a specific area.
+
+[^regrowforest]: [To regrow forests, the U.S. needs billions of seeds—and many more seed hunters](https://www.nationalgeographic.com/environment/article/to-regrow-forests-us-needs-billions-of-seeds-many-more-seed-hunters).
