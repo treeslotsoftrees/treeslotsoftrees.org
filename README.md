@@ -1,7 +1,11 @@
 # Trees, Lots of Trees
 
-> Invest in the future of your planet. Plant [trees, lots of trees](https://treeslotsoftrees.org).
+> Invest in the future of Earth. Plant [trees, lots of trees](https://treeslotsoftrees.org).
 
-## Founders
+## Original Gang & Founders
 
-- [Brajeshwar](https://brajeshwar.com)
+The co-founders are [Valinor.Earth](https://valinor.earth) started this but we are looking for lot more founders, creators, volunteers, and donors.
+
+- Brajeshwar Oinam
+- Amir About
+- Priyadarshi Sadangi

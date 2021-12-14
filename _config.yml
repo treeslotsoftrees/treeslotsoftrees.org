@@ -1,0 +1,41 @@
+title: Trees, Lots of Trees
+description: 'Invest in the future of Earth. Plant trees, lots of trees.'
+
+remote_theme: oinam/oinam-jekyll
+
+footer:
+  credit: false
+  custom: true
+
+footer_custom: 'Powered by volunteers, great businesses, and individuals.'
+
+layout:
+  theme: default
+
+
+markdown: kramdown
+permalink: pretty
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-titles-from-headings
+  - jekyll-optional-front-matter
+
+exclude:
+  - .jekyll-cache/
+  - .sass-cache/
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - gemfiles/
+  - netlify.toml
+  - README.*
+  - vendor/
