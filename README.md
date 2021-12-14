@@ -4,7 +4,7 @@
 
 ## Original Gang & Founders
 
-The co-founders are [Valinor.Earth](https://valinor.earth) started this but we are looking for lot more founders, creators, volunteers, and donors.
+The co-founders of [Valinor.Earth](https://valinor.earth) started this but we are looking for lot more founders, creators, volunteers, and donors.
 
 - Brajeshwar Oinam
 - Amir About

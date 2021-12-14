@@ -7,7 +7,7 @@ title: Trees, Lots of Trees
 > __Tomorrow will be too late for us, and our kids.__\
 > Let's do the __simplest__, and one of the most __effective__ action -- _plant trees, lots of trees._
 
-We are creating a multi-organizational DAO[^DAO] to invest in, expand, monitor, and improve existing and new forests using technology. We will bridge the gap between the digital and physical world, with inclusivity of the young, old, and new generations.
+A crowdsourced initiative to plant trees, lots of trees everywhere on earth. To be able to do this transparently, worldwide, accountability, and trust, we are creating a multi-organizational DAO[^DAO] to invest in, expand, monitor, and improve existing and new forests using technology. We will bridge the gap between the digital and physical world, with inclusivity of the young, old, and new generations.
 
 ---
 
@@ -29,7 +29,7 @@ and get the best-value token to your ETH Address when we Airdrop.
 - Users can also use DeFi to swap other tokens on other networks in order to offset the carbon footprint emissions resulted by their crypto activity (like transactions, verifications or computations) and these tokens can be used to purchase carbon credits from farmers or contribute to forestation of areas of their choosing.
 - __Marketplace__ The idea of a marketplace where locations are crowdsourced, locals gets involved to plant trees, nurture them, and benefit from the commercial aspects of it too.
 - We will leverage satellite imagery to monitor and analyse the growth, management, and progress of the trees.
-- Starting in __USA, Canada, Nepal, and India__. Looking for people in other countries to expand.
+- We are kickstarting with __USA, Canada, Nepal, and India__. We are inviting interested individuals worldwide to be part of this revolution.
 
 ## What's with the ugly website?
 
