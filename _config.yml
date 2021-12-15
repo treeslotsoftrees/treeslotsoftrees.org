@@ -7,7 +7,7 @@ footer:
   credit: false
   custom: true
 
-footer_custom: 'Powered by volunteers, great businesses, and individuals.'
+footer_custom: 'Powered by volunteers, great businesses, and individuals. <a href="https://github.com/treeslotsoftrees">Open Source</a> at Github.'
 
 layout:
   theme: default
