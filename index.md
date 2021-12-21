@@ -13,13 +13,18 @@ A crowdsourced initiative to plant trees, lots of trees everywhere on earth. To 
 
 ## 3 ways to play your part
 
-1. __Prebook the Tokens__[^token]. We are prebooking till we hit __99ETH__. You will become part of the OG (Original Gang). Send ETH to\
-<a href="https://etherscan.io/address/0xf3404da4ea4113e84b21d99eaea39ef5222d18fc">__0xF3404da4ea4113e84b21D99eAEa39ef5222d18FC__</a>\
+1. __Prebook the Tokens__[^token]. We are prebooking till we hit __99ETH__. You will become part of the OG (Original Gang). Accepting ETH to\
+<a href="https://etherscan.io/address/0xf3404da4ea4113e84b21d99eaea39ef5222d18fc" title="History on Etherscan">0xF3404da4ea4113e84b21D99eAEa39ef5222d18FC</a>\
 and get the best-value token to your ETH Address when we Airdrop.
-2. __Buy and Collect__ the NFTs (coming soon).
-3. Donate ETH to __`0xc78db9cec02D9744540e68c45538e6E27542C118`__
+2. <a href="https://opensea.io/collection/treeslotsoftrees" title="Buy the NFTs">Buy the NFTs</a>.
+3. Donate ETH to `0xc78db9cec02D9744540e68c45538e6E27542C118`
 
-<img class="full" src="/static/img/trees-cover.webp" alt="Trees, Lots of Trees" loading="lazy">
+<figure class="content-large">
+  <a href=""><img src="/static/img/trees-cover-1-bamboo-forest.webp" alt="Trees, Lots of Trees" loading="lazy"></a>
+  <figcaption>
+    Trees, Lots of Trees. <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/2443293702777852481794981172318749217968644110931189357707000736853929230378/">Buy the Original NFT</a> high-resolution original (24999 x 14166 pixel).
+  </figcaption>
+</figure>
 
 ## About, FAQ & More
 
