@@ -4,7 +4,7 @@ title: Trees, Lots of Trees
 ---
 
 > <mark>Climate Change is a clear and present danger.</mark>\
-> __Tomorrow will be too late for us, and our kids.__\
+> __Tomorrow is too late for us, our kids, and the new generations.__\
 > Let's do the __simplest__, and one of the most __effective__ action -- _plant trees, lots of trees._
 
 A crowdsourced initiative to plant trees, lots of trees everywhere on earth. To be able to do this transparently, worldwide, with accountability, and trust, we are creating a multi-organizational DAO[^DAO] to invest in, expand, monitor, and improve existing and new forests using technology. We will bridge the gap between the digital and physical world, with inclusivity of the young, old, and new generations.
