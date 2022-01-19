@@ -4,47 +4,58 @@ title: Trees, Lots of Trees
 ---
 
 > <mark>Climate Change is a clear and present danger.</mark>\
-> __Tomorrow is too late for us, our kids, and the new generations.__\
-> Let's do the __simplest__, and one of the most __effective__ action -- _plant trees, lots of trees._
+> __Tomorrow is too late for us, the kids, and the new generations.__\
+> Let's do the __simplest__, and one of the most __effective__ actions -- _plant trees, lots of trees._
 
-A crowdsourced initiative to plant trees, lots of trees everywhere on earth. To be able to do this transparently, worldwide, with accountability, and trust, we are creating a multi-organizational DAO[^DAO] to invest in, expand, monitor, and improve existing and new forests using technology. We will bridge the gap between the digital and physical world, with inclusivity of the young, old, and new generations.
+# <mark>1st Token Sale starts early Feb, 2022.</mark>
 
----
+_Like to just contribute? Donate to_
+`0xc78db9cec02D9744540e68c45538e6E27542C118`
 
-## 3 ways to play your part
+## Plant Billions of Trees
 
-1. __Prebook the Tokens__[^token]. We are prebooking till we hit __99ETH__. You will become part of the OG (Original Gang). Accepting ETH to\
-<a href="https://etherscan.io/address/0xf3404da4ea4113e84b21d99eaea39ef5222d18fc" title="History on Etherscan">0xF3404da4ea4113e84b21D99eAEa39ef5222d18FC</a>\
-and get the best-value token to your ETH Address when we Airdrop.
-2. <a href="https://opensea.io/collection/treeslotsoftrees" title="Buy the NFTs">Buy the NFTs</a>.
-3. Donate ETH to `0xc78db9cec02D9744540e68c45538e6E27542C118`
+1. Offer our token for a decentralized community governance of the DAO. This is the first supply of the tokens.
+2. Target to plant 100 Million Trees in the first year (2022).
+3. Not just plant, but monitor, track, analyze, with satellites and devices on the ground.
 
 <figure class="content-large">
-  <a href=""><img src="/static/img/trees-cover-1-bamboo-forest.webp" alt="Trees, Lots of Trees" loading="lazy"></a>
+  <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/2443293702777852481794981172318749217968644110931189357707000736853929230378/"><img src="/static/img/trees-cover-1-bamboo-forest.webp" alt="Trees, Lots of Trees" loading="lazy"></a>
   <figcaption>
     Trees, Lots of Trees. <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/2443293702777852481794981172318749217968644110931189357707000736853929230378/">Buy the Original NFT</a> high-resolution original (24999 x 14166 pixel).
   </figcaption>
 </figure>
 
-## About, FAQ & More
+## About
+
+A crowdsourced initiative to plant trees, lots of trees everywhere on earth. To be able to do this transparently, worldwide, with accountability, and trust, we are creating a multi-organizational DAO[^DAO] to invest in, expand, monitor, and improve existing and new forests using technology. We want to bridge the gap between the digital and physical world, with inclusivity of the young, old, and new generations.
+
+---
+
+## FAQ & More
 
 - It all started when a group of Startup Founders was helping customers with monitoring, counting trees over forest using Satellite data. They are geospatial experts, technology product builders, and AgTech experts who are all deeply concerned about climate change. The activities were part of the CSR[^CSR] (Corporate Social Responsibility) activities but they felt it was not enough.
 - The idea of helping plant trees, billions of trees came up. Right now, the idea is to create a coalition of companies, Non-Profit Organizations, groups (public and private sector), and stakeholders to be part of the DAO.
-- The founding team invented a Machine Learning Algorithm to convert satellite images to Super-Resolution imagery. We will start by contributing our technologies and methods using AI and remote sensing to track and improve existing and newly planted areas.
+- The __founding team invented a Machine Learning Algorithm__ to convert satellite images to Super-Resolution imagery. We will start by contributing our technologies and methods using AI and remote sensing to track and improve existing and newly planted areas.
 - Users can also use DeFi to swap other tokens on other networks to offset the carbon footprint emissions due to their crypto activity (like transactions, verifications, or computations) and these tokens can be used to purchase carbon credits from farmers or contribute to the forestation of areas of their choosing.
 - A __marketplace__ where locations are crowdsourced, locals get involved to plant trees, nurture them, and benefit from the commercial aspects of it too.
 - We will leverage satellite imagery to monitor and analyze the growth, management, and progress of the trees.
-- We are starting in __USA, Canada, Nepal, and India__. We are inviting interested individuals worldwide to be part of this revolution.
+- We have already started in __USA, Canada, Nepal, and India__. We are inviting interested individuals worldwide to be part of this revolution, and expand across the whole earth.
 - In the USA, billions of seeds[^regrowforest] are needed to regrow forests.
 
-## What's with the ugly website?
+<video class="content-full" controls autoplay muted>
+  <source src="/static/video/trees-digital.webm" type="video/webm">
+  <source src="/static/video/trees-digital.mp4" type="video/mp4">
+</video>
+
+## What's with the bland website?
 
 Yes, we are looking for designers, artists, engineers, lawyers, and everyone else who can contribute and help out. We can have arrangements for pro-bono contributions or you can get compensated with Ethereum based tokens (coming soon), or Ethereum or other cryptos.
 
 ### Connect
 
 - [Twitter](https://twitter.com/TreesMoreTrees) for announcements, general tweets, and we will try memes too.
-- [Discord](https://discord.gg/BEmRQ3zp) for discussions, fights, decisions, and more.
+- [Discord](https://discord.gg/BEmRQ3zp) for discussions, disagreements, decisions, family, community, and more.
+- [Github](https://github.com/treeslotsoftrees) for all of the work. All Open Source.
 - [Email](mailto:hi@treeslotsoftrees.org) for the other awesome old-school folks who started on the web before it had versions, and for those cool new ones who appreciate history.
 
 [//]: # Footnotes
