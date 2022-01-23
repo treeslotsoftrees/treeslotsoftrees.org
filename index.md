@@ -3,14 +3,40 @@ layout: default
 title: Trees, Lots of Trees
 ---
 
+<style>
+  .cta, .cta:visited {
+    cursor: pointer;
+    border: 1px solid var(--color-black);
+    border-radius: 10rem;
+    background: var(--color-secondary);
+    
+    padding: var(--space-base) var(--space-double);
+    margin: var(--space-base) 0;
+
+    font-size: 160%;
+    font-weight: 700;
+    color: var(--color-white);
+    text-decoration: none;
+    text-align: center;
+  }
+
+  .cta:hover, .cta:focus {
+    text-decoration: none;
+    background: var(--color-accent);
+    color: var(--color-white);
+  }
+</style>
+
+<a href="https://juicebox.money/#/p/treeslotsoftrees" class="cta" target="_blank">Invest in the DAO →</a>
+
 > <mark>Climate Change is a clear and present danger.</mark>\
 > __Tomorrow is too late for us, the kids, and the new generations.__\
 > Let's do the __simplest__, and one of the most __effective__ actions -- _plant trees, lots of trees._
 
-# <mark>1st Token Sale starts early Feb, 2022.</mark>
-
-_Like to just contribute? Donate to_
-`0xc78db9cec02D9744540e68c45538e6E27542C118`
+<small>
+  <em>Like to just contribute? Donate to</em>
+  `0xc78db9cec02D9744540e68c45538e6E27542C118`
+</small>
 
 ## Plant Billions of Trees
 
