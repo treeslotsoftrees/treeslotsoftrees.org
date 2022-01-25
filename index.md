@@ -80,7 +80,7 @@ Yes, we are looking for designers, artists, engineers, lawyers, and everyone els
 ### Connect
 
 - [Twitter](https://twitter.com/TreesMoreTrees) for announcements, general tweets, and we will try memes too.
-- [Discord](https://discord.gg/BEmRQ3zp) for discussions, disagreements, decisions, family, community, and more.
+- [Discord](https://discord.gg/Mb7VF4yr9C) for discussions, disagreements, decisions, family, community, and more.
 - [Github](https://github.com/treeslotsoftrees) for all of the work. All Open Source.
 - [Email](mailto:hi@treeslotsoftrees.org) for the other awesome old-school folks who started on the web before it had versions, and for those cool new ones who appreciate history.
 
