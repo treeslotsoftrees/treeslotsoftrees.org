@@ -27,7 +27,7 @@ title: Trees, Lots of Trees
   }
 </style>
 
-<a href="https://juicebox.money/#/p/treeslotsoftrees" class="cta" target="_blank">Invest in the DAO →</a>
+<a href="https://juicebox.money/#/p/treeslotsoftrees" class="cta" target="_blank">Support the DAO →</a>
 
 > <mark>Climate Change is a clear and present danger.</mark>\
 > __Tomorrow is too late for us, the kids, and the new generations.__\
